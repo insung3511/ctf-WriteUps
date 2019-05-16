@@ -11,4 +11,3 @@
 2018
 > <a href="https://github.com/insung3511/dimigoHack-2018"> 전국 청소년 모의 해킹 대회 2018 </a>
 
-test 입니다.
