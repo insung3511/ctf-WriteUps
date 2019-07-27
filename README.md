@@ -5,7 +5,7 @@
 
 # 문서 링크
 2017
-> <a herf="https://github.com/insung3511/#"> 한세사이버보안고등학교 HSOC </a>
+> <a herf="https://github.com/insung3511/hanseiCTF-2017"> 한세사이버보안고등학교 HSOC </a>
 <br/>
 
 2018
